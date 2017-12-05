@@ -7,6 +7,8 @@
 
 - 200小谈话 https://github.com/xiaoyantan1105
 
-- 270范西西 ![https://avatars1.githubusercontent.com/u/33768999?s=400&v=4] (https://github.com/xixifan)
+- 270范西西 ![https://avatars1.githubusercontent.com/u/33768999?s=400&v=4]
+
+(https://github.com/xixifan)
 
 - 315笨飞鸟 https://github.com/SillyFlyingBird
