@@ -2,12 +2,12 @@
 木简
 # 成员
 - 058空隙草
- - https://github.com/ZhangFZ074  
- - http://www.jianshu.com/u/b9b861ad1734
+  - https://github.com/ZhangFZ074  
+  - http://www.jianshu.com/u/b9b861ad1734
 
 - 180贪痴舍 
- - https://github.com/lily1976  
- - http://www.jianshu.com/u/3a97a93d34c0 
+  - https://github.com/lily1976  
+  - http://www.jianshu.com/u/3a97a93d34c0 
            
 - 200小谈话 
   - https://github.com/xiaoyantan1105  
